@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name arduino_controller_psp_stick-rescue)(type Legacy)(uri ${KIPRJMOD}/arduino_controller_psp_stick-rescue.lib)(options "")(descr ""))
+)
